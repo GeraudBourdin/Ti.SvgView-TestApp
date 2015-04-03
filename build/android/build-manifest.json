@@ -2,7 +2,7 @@
 	"target": "device",
 	"deployType": "test",
 	"classname": "SvgviewTestapp",
-	"platformPath": "C:\\ProgramData\\Titanium\\mobilesdk\\win32\\3.5.1.GA\\android",
+	"platformPath": "/Users/gtwin/Library/Application Support/Titanium/mobilesdk/osx/3.5.1.GA/android",
 	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"modulesManifestHash": "ae0636e948272060eb5928fdcb9242a1",
 	"modulesNativeHash": "322db67e22d9b6b5869b4ba1cc825bf5",
@@ -15,11 +15,11 @@
 	"url": "http://",
 	"version": "1.0",
 	"description": "",
-	"copyright": "2015 by gtwin",
+	"copyright": "2015 by Géraud Bourdin",
 	"guid": "641db285-61f3-41af-b5ac-5b3f0a936bf1",
 	"icon": "appicon.png",
 	"fullscreen": false,
-	"skipJSMinification": false,
+	"skipJSMinification": true,
 	"mergeCustomAndroidManifest": false,
 	"encryptJS": true,
 	"minSDK": 10,
@@ -28,5 +28,5 @@
 	"activitiesHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"servicesHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"jssFilesHash": "d41d8cd98f00b204e9800998ecf8427e",
-	"jarLibHash": "b8c2972330785257314827ef005a493b"
+	"jarLibHash": "c84aba359187cd421519e1a521b44f98"
 }

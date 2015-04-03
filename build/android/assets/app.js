@@ -1,1 +1,1 @@
-var Alloy=require("alloy"),_=Alloy._,Backbone=Alloy.Backbone;Alloy.createController("index");
+/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/Resources/android/app.js

@@ -9,8 +9,11 @@ function __processArg(obj, key) {
 
 function Controller() {
     function changeSvg() {
-        var image = "pieChart.svg" == svg.getImage() ? "android.svg" : "pieChart.svg";
+        var image = getRandomInt(1, 19) + ".svg";
         svg.setImage(image);
+    }
+    function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
     }
     require("alloy/controllers/BaseController").apply(this, Array.prototype.slice.call(arguments));
     this.__controllerPath = "index";
@@ -36,7 +39,7 @@ function Controller() {
     $.__views.container && $.addTopLevelView($.__views.container);
     $.__views.button = Ti.UI.createButton({
         id: "button",
-        title: "switch Svg file",
+        title: "change Svg file",
         top: "10",
         width: "200",
         height: "50"
@@ -47,7 +50,7 @@ function Controller() {
     _.extend($, $.__views);
     var svgView = require("com.geraudbourdin.svgview");
     var svg = svgView.createView({
-        image: "android.svg",
+        image: "3.svg",
         width: "350",
         height: "350",
         top: 0,

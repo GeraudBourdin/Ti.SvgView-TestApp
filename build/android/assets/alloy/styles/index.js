@@ -1,1 +1,1 @@
-module.exports=[{isClass:!0,priority:10000.0002,key:"container",style:{backgroundColor:"red"}}];
+/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/Resources/android/alloy/styles/index.js
