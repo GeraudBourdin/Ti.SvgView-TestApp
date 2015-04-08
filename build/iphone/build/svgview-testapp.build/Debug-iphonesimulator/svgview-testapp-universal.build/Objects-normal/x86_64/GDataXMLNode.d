@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/GDataXMLNode.m \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/GDataXMLNode.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/GDataXMLNode.m \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/GDataXMLNode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/tree.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/xmlversion.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/xmlexports.h \

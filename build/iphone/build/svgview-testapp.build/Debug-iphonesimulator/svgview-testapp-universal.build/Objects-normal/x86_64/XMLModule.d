@@ -1,13 +1,13 @@
 dependencies: \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/XMLModule.m \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/XMLModule.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiModule.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiProxy.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiBase.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiThreading.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiPublicAPI.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiEvaluator.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/KrollContext.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/XMLModule.m \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/XMLModule.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiModule.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiProxy.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiBase.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiThreading.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiPublicAPI.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiEvaluator.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/KrollContext.h \
   headers/JavaScriptCore/TiCore.h headers/JavaScriptCore/Ti.h \
   headers/JavaScriptCore/TiBase.h headers/JavaScriptCore/TiContextRef.h \
   headers/JavaScriptCore/TiObjectRef.h \
@@ -15,18 +15,18 @@ dependencies: \
   headers/JavaScriptCore/WebKitAvailability.h \
   headers/JavaScriptCore/TiStringRef.h \
   headers/JavaScriptCore/TiStringRefCF.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/KrollCallback.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/KrollObject.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiBindingRunLoop.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiUtils.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiDimension.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiColor.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/WebFont.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiFile.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiBuffer.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiBlob.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiDOMDocumentProxy.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/GDataXMLNode.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/KrollCallback.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/KrollObject.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiUtils.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiDimension.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiColor.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/WebFont.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiFile.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiBuffer.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiBlob.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiDOMDocumentProxy.h \
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/GDataXMLNode.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/tree.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/xmlversion.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/xmlexports.h \
@@ -50,4 +50,4 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/SAX2.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/xpath.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.2.sdk/usr/include/libxml2/libxml/xpathInternals.h \
-  /Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/iphone/Classes/TiDOMNodeProxy.h
+  /Users/gtwin/Desktop/TiSvgView/TestApp/build/iphone/Classes/TiDOMNodeProxy.h

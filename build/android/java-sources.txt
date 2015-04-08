@@ -1,8 +1,0 @@
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/android/support/v7/appcompat/R.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/ApplicationStylesheet.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/AssetCryptImpl.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/R.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/SvgviewTestappActivity.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/SvgviewTestappAppInfo.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/SvgviewTestappApplication.java"
-"/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/build/android/gen/ti/modules/titanium/ui/R.java"

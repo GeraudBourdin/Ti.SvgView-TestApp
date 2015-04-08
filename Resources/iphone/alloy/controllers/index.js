@@ -9,12 +9,10 @@ function __processArg(obj, key) {
 
 function Controller() {
     function changeSvg() {
-        var image = getRandomInt(1, 17) + ".svg";
+        20 == svgInt ? svgInt = 0 : svgInt++;
+        var image = svgInt + ".svg";
         Ti.API.info("Image loaded :" + image);
         svg.setImage(image);
-    }
-    function getRandomInt(min, max) {
-        return Math.floor(Math.random() * (max - min + 1)) + min;
     }
     require("alloy/controllers/BaseController").apply(this, Array.prototype.slice.call(arguments));
     this.__controllerPath = "index";
@@ -51,7 +49,7 @@ function Controller() {
     _.extend($, $.__views);
     var svgView = require("com.geraudbourdin.svgview");
     var svg = svgView.createView({
-        image: "3.svg",
+        image: "0.svg",
         width: "350",
         height: "350",
         top: 0,
@@ -59,6 +57,7 @@ function Controller() {
         backgroundColor: "pink"
     });
     $.container.add(svg);
+    var svgInt = 0;
     $.container.open();
     __defers["$.__views.button!click!changeSvg"] && $.__views.button.addEventListener("click", changeSvg);
     _.extend($, exports);

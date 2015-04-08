@@ -17,11 +17,11 @@
 
 	
 		[modules addObject:[NSDictionary
-			dictionaryWithObjectsAndKeys:@"svg-ios",
+			dictionaryWithObjectsAndKeys:@"svgview",
 			@"name",
 			@"com.geraudbourdin.svgview",
 			@"moduleid",
-			@"1.0.0",
+			@"1.0.1",
 			@"version",
 			@"ac3aaad2-eda3-428a-87f2-5cb00e96713d",
 			@"guid",

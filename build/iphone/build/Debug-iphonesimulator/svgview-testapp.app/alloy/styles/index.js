@@ -1,1 +1,1 @@
-/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/Resources/iphone/alloy/styles/index.js
+/Users/gtwin/Desktop/TiSvgView/TestApp/Resources/iphone/alloy/styles/index.js

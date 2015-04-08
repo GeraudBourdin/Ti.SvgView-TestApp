@@ -1,1 +1,1 @@
-/Users/gtwin/Documents/Titanium_Studio_Workspace/Ti.AndroidSvgView-TestApp/Resources/iphone/alloy/controllers/BaseController.js
+/Users/gtwin/Desktop/TiSvgView/TestApp/Resources/iphone/alloy/controllers/BaseController.js
