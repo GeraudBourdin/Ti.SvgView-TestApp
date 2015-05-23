@@ -48,7 +48,7 @@
         <theme>default</theme>
     </mobileweb>
     <modules>
-        <module platform="iphone" version="1.0.1">com.geraudbourdin.svgview</module>
+        <module platform="iphone" version="1.0.2">com.geraudbourdin.svgview</module>
         <module platform="android" version="1.0.0">com.geraudbourdin.svgview</module>
     </modules>
     <deployment-targets>

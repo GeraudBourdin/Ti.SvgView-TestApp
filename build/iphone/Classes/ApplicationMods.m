@@ -21,7 +21,7 @@
 			@"name",
 			@"com.geraudbourdin.svgview",
 			@"moduleid",
-			@"1.0.1",
+			@"1.0.2",
 			@"version",
 			@"ac3aaad2-eda3-428a-87f2-5cb00e96713d",
 			@"guid",

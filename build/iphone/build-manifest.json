@@ -1,12 +1,13 @@
 {
-	"target": "simulator",
-	"deployType": "development",
-	"iosSdkVersion": "8.2",
+	"target": "device",
+	"deployType": "test",
+	"iosSdkVersion": "8.3",
 	"deviceFamily": "universal",
+	"developerName": "Geraud bourdin (4RB9YZ63SN)",
 	"iosSdkPath": "/Users/gtwin/Library/Application Support/Titanium/mobilesdk/osx/3.5.1.GA/iphone",
 	"tiCoreHash": "47658db9e85e6b4af144b3d6070d6de0",
-	"modulesHash": "263df95c73154140bbc2320ff5ce343f",
-	"modulesNativeHash": "917bb519c82446c2cc62b64f09824d9b",
+	"modulesHash": "5ff319fa94767215213e4cb10de3fa7a",
+	"modulesNativeHash": "e2445c213b6206a36d36acf8721a638a",
 	"gitHash": "96875c9",
 	"name": "svgview-testapp",
 	"id": "com.geraudbourdin.svgview.test",
@@ -17,8 +18,8 @@
 	"description": "undefined",
 	"copyright": "2015 by Géraud Bourdin",
 	"guid": "641db285-61f3-41af-b5ac-5b3f0a936bf1",
-	"skipJSMinification": true,
+	"skipJSMinification": false,
 	"forceCopy": false,
 	"forceCopyAll": false,
-	"encryptJS": false
+	"encryptJS": true
 }
