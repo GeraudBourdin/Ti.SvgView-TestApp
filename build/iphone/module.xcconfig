@@ -1,4 +1,0 @@
-// this is a generated file - DO NOT EDIT
-
-COM_GERAUDBOURDIN_SVGVIEW_OTHER_LDFLAGS=$(inherited) -framework QuartzCore
-OTHER_LDFLAGS=$(inherited) $(COM_GERAUDBOURDIN_SVGVIEW_OTHER_LDFLAGS) 

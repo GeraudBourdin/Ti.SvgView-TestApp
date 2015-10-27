@@ -2,5 +2,6 @@
 	<Window class="container" id="container" layout="vertical" >
 	  <Button id="button" onClick="changeSvg" title="change Svg file"
             top="10" width="200" height="50" />
+            <Button id="buttonListView"  onClick="openListView" top="50" width="200" height="50"  title="ListView test"/>
      </Window>
 </Alloy>

@@ -1,0 +1,17 @@
+<Alloy>
+	<Window title="Demo: SVG + ListView">
+		<ListView defaultItemTemplate="customTemplate">
+			<Templates>
+				<ItemTemplate name="customTemplate">
+					<SvgView platform="android" bindId="svgImage" ns="Alloy.Globals.uiModules" />
+					<View platform="ios" bindId="svgImage" ns="Com.Geraudbourdin.Svgview"/>
+				</ItemTemplate>
+			</Templates>
+			<ListSection>
+				<ListItem svgImage:image="/1.svg"/>
+				<ListItem svgImage:image="/2.svg"/>
+				<ListItem svgImage:image="/3.svg"/>
+			</ListSection>
+		</ListView>
+	</Window>
+</Alloy>

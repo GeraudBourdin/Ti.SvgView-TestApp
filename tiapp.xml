@@ -4,14 +4,14 @@
     <name>svgview-testapp</name>
     <version>1.0</version>
     <publisher>gtwin</publisher>
-    <url>http://</url>
+    <url>https://github.com/GeraudBourdin/Ti.SvgView-TestApp</url>
     <description>undefined</description>
     <copyright>2015 by Géraud Bourdin</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
-    <guid>641db285-61f3-41af-b5ac-5b3f0a936bf1</guid>
+    <guid>dbaea402-46fb-47aa-9222-260b66d760a3</guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <ios>
         <plist>
@@ -49,17 +49,17 @@
     </mobileweb>
     <modules>
         <module platform="iphone" version="1.0.2">com.geraudbourdin.svgview</module>
-        <module platform="android" version="1.0.0">com.geraudbourdin.svgview</module>
+        <module platform="android" version="1.0.1">com.geraudbourdin.svgview</module>
     </modules>
     <deployment-targets>
         <target device="iphone">true</target>
         <target device="ipad">true</target>
         <target device="android">true</target>
-        <target device="blackberry">false</target>
         <target device="mobileweb">false</target>
     </deployment-targets>
-    <sdk-version>3.5.1.GA</sdk-version>
+    <sdk-version>5.0.2.GA</sdk-version>
     <plugins>
         <plugin version="1.0">ti.alloy</plugin>
     </plugins>
+    <property name="appc-app-id" type="string">562f82e0bc404f16587a6abd</property>
 </ti:app>

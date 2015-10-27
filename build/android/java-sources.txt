@@ -1,0 +1,7 @@
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/AssetCryptImpl.java"
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/R.java"
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/SvgviewTestappActivity.java"
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/SvgviewTestappAppInfo.java"
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/com/geraudbourdin/svgview/test/SvgviewTestappApplication.java"
+"/Users/geraudbourdin/Documents/Mobile/Ti.SvgView-TestApp/build/android/gen/ti/modules/titanium/ui/R.java"

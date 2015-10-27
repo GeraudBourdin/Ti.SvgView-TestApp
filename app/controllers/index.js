@@ -1,5 +1,7 @@
 
 var svgView = require('com.geraudbourdin.svgview');
+
+
 var svg = svgView.createView({
 	image: "0.svg",
 	width: '350',
@@ -24,4 +26,7 @@ function changeSvg(e){
 };
 $.container.open();
 
-
+function openListView(e){
+	var listviewWindow=Alloy.createController('listView').getView();
+	listviewWindow.open(); 
+}

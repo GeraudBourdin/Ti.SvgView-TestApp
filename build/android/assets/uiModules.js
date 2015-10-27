@@ -1,0 +1,1 @@
+var o={createSvgView:function(e){var t=require("com.geraudbourdin.svgview");return t.createView(e)}};module.exports=o,Alloy.Globals.uiModules=o;
